@@ -1,0 +1,20 @@
+{
+    "APP_NAME": "yunesendocrinologia",
+    "DEFAULT_TITLE": "Yunes Endocrinologia",
+    "DEFAULT_META_DESCRIPTION": "Medical´s office in the city of Pelotas / RS where the physician specialized in Endocrinology and Metabology Eduardo Bardou Yunes Filho, attends to his specialty",
+      
+    "PUBLIC.CONTACT.PAGE_TITLE": "Get in touch",
+    "PUBLIC.CONTACT.META_DESCRIPTION": "Rua General Neto, 1035 Sala 406, Centro | Pelotas/RS. Schedule your medical appointment at (53) 3302-6428",
+    "PUBLIC.HOME.PAGE_TITLE": "Yunes Endocrinologia",
+    "PUBLIC.HOME.META_DESCRIPTION": "Medical´s office in the city of Pelotas / RS where the physician specialized in Endocrinology and Metabology Eduardo Bardou Yunes Filho, attends to his specialty",
+    "PUBLIC.ABOUT.PAGE_TITLE": "About the physician Eduardo Bardou Yunes Filho MD",
+    "PUBLIC.ABOUT.META_DESCRIPTION": "Specialist in Endocrinology and Metabology (CREMERS 33871 | RQE 27856) graduated from the Hospital de Clínicas de Porto Alegre. Master in Endocrinology from the Universidade Federal do Rio Grande do Sul",
+    "PUBLIC.ENDOCRINOLOGIA.PAGE_TITLE": "Endocrinology and Metabology",
+    "PUBLIC.ENDOCRINOLOGIA.META_DESCRIPTION": "Know more about the fields of practice of the medical specialty of Endocrinology and Metabology",
+  
+    "PUBLIC.MENU.HOME": "Home",
+    "PUBLIC.MENU.ABOUT": "About",
+    "PUBLIC.MENU.ENDOCRINOLOGIA": "Endocrinology",
+    "PUBLIC.MENU.CONTATO": "Contact"
+    
+  }

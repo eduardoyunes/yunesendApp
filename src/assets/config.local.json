@@ -1,0 +1,53 @@
+{
+    "system": {
+      "applicationName": "APP_NAME",
+      "applicationUrl": "https://yunesendocrinologia.com.br"
+    },
+    "seo": {
+      "defaultPageTitle": "DEFAULT_TITLE",
+      "pageTitlePositioning": 10,
+      "pageTitleSeparator": " | ",
+      "defaultMetaDescription": "DEFAULT_META_DESCRIPTION"
+    },
+    "i18n": {
+      "defaultLanguage": {
+        "code": "pt-BR",
+        "name": "Português Brasileiro",
+        "culture": "pt-BR"
+      },
+      "availableLanguages": [
+        {
+          "code": "pt-BR",
+          "name": "Português Brasileiro",
+          "culture": "pt-BR"
+        },
+        {
+          "code": "en",
+          "name": "English",
+          "culture": "en-US"
+        }
+      ],
+      "useLocalizedRoutes": true
+    },
+    "routes": {
+      "pt": {
+        "ROOT.HOME": "Início",
+        "ROOT.SOBRE": "Sobre",
+        "ROOT.ENDOCRINOLOGIA": "Endocrinologia",
+        "ROOT.CONTATO": "Contato",
+        "CHANGE_LANGUAGE": "Trocar o idioma"
+      },
+      "en": {
+        "ROOT.HOME": "Home",
+        "ROOT.SOBRE": "About",
+        "ROOT.ENDOCRINOLOGIA": "Endocrinology",
+        "ROOT.CONTATO": "Contact",
+        "CHANGE_LANGUAGE": "Change Language"
+      }
+    },
+    "backend": {
+      "baseBrowserUrl": "http://localhost:4200",
+      "baseServerUrl": "http://localhost:4000"
+    }
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "APP_NAME": "yunesendocrinologia",
+    "DEFAULT_TITLE": "Yunes Endocrinologia",
+    "DEFAULT_META_DESCRIPTION": "Consultório médico na cidade de Pelotas/RS, onde o médico Endocrinologista e Metabologista Eduardo Bardou Yunes Filho, realiza atendimentos voltados a sua especialidade",
+      
+    "PUBLIC.CONTACT.PAGE_TITLE": "Entre em contato",
+    "PUBLIC.CONTACT.META_DESCRIPTION": "Rua General Neto, 1035 Sala 406, Centro | Pelotas/RS. Agende sua consulta pelo número (53) 3302-6428",
+    "PUBLIC.HOME.PAGE_TITLE": "Yunes Endocrinologia",
+    "PUBLIC.HOME.META_DESCRIPTION": "Consultório médico na cidade de Pelotas/RS, onde o médico Endocrinologista e Metabologista Eduardo Bardou Yunes Filho, realiza atendimentos voltados a sua especialidade",
+    "PUBLIC.ABOUT.PAGE_TITLE": "Sobre o médico | Dr. Eduardo Bardou Yunes Filho",
+    "PUBLIC.ABOUT.META_DESCRIPTION": "Médico Endocrinologista e Metabologista (CREMERS 33871 | RQE 27856) com formação pelo Hospital de Clínicas de Porto Alegre. Mestre em Endocrinologia pela Universidade Federal do Rio Grande do Sul",
+    "PUBLIC.ENDOCRINOLOGIA.PAGE_TITLE": "Endocrinologia e Metabologia - Sobre a especialidade",
+    "PUBLIC.ENDOCRINOLOGIA.META_DESCRIPTION": "Conheça melhor os campos de atuação da especialidade médica de Endocrinologia e Metabologia",
+  
+    "PUBLIC.MENU.HOME": "Início",
+    "PUBLIC.MENU.ABOUT": "Sobre",
+    "PUBLIC.MENU.ENDOCRINOLOGIA": "Endocrinologia",
+    "PUBLIC.MENU.CONTATO": "Contato"
+    
+  }
