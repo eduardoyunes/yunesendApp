@@ -1,0 +1,40 @@
+{
+  "rulesDirectory": [
+    "node_modules/codelyzer"
+  ],
+  "extends": [
+    "angular-tslint-rules"
+  ],
+  "rules": {
+    "no-unnecessary-class": false,
+    "no-implicit-dependencies": false,
+    "comment-format": false,
+    "i18n": false,
+    "no-forward-ref": false,
+    "no-unused-css": false,
+    "use-view-encapsulation": false,
+    "angular-whitespace": [
+      true,
+      "check-interpolation"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      [
+        "app",
+        "i18n",
+        "router"
+      ],
+      "kebab-case"
+    ],
+    "directive-selector": [
+      true,
+      "attribute",
+      [
+        "app",
+        "routerLink"
+      ],
+      "kebab-case"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "index": "/index.html",
+  "appData": {
+    "name": "eyunes-app",
+    "description": "Yunes Endocrinologia Landing page build on Angular 6/7"
+  },
+  "assetGroups": [{
+    "name": "app",
+    "installMode": "prefetch",
+    "resources": {
+      "files": [
+        "/index.html"
+      ],
+      "versionedFiles": [
+        "/main.*.js",
+        "/0.*.js",
+        "/polyfills.*.js",
+        "/runtime.*.js",
+        "/styles.*.css"
+      ]
+    }
+  }, {
+    "name": "assets",
+    "installMode": "lazy",
+    "updateMode": "prefetch",
+    "resources": {
+      "files": [
+        "/assets/img/**"
+      ]
+    }
+  }, {
+    "name": "fonts",
+    "resources": {
+      "urls": [
+        "https://fonts.googleapis.com/**"
+      ]
+    }
+  }]
+}
